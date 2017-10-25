@@ -1,3 +1,4 @@
 /forum
 
 *.pyc
+DjangoForum/DjangoForum/secret_key.py
