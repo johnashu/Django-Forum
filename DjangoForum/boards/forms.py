@@ -6,8 +6,8 @@ class NewTopicForm(forms.ModelForm):
         widget=forms.Textarea(
             attrs={'rows': 10, 'placeholder': 'What is on your mind?'}
         ), 
-        max_length=4000,
-        help_text='Max length 4000 Characters.'
+        max_length=5000,
+        help_text='Max length 5000 Characters.'
         )
 
     class Meta:
