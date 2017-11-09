@@ -4,4 +4,4 @@
 DjangoForum/DjangoForum/secret_key.py
 DjangoForum/secret_key.py
 *.exe
-*.sqlite
+*.sqlite3
